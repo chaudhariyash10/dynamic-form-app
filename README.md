@@ -8,7 +8,6 @@ This is a React application for dynamically generating forms. Users can add diff
 
 - Add various types of form fields.
 - Set validation rules for form fields, including required fields, minimum/maximum length, and specific formats (e.g., email, phone number).
-- Conditional logic to show/hide fields based on other field values.
 - File upload fields with validation for file type and size.
 - Form submission with error handling and data logging.
 
@@ -17,7 +16,7 @@ This is a React application for dynamically generating forms. Users can add diff
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/my-react-app.git
+   git clone https://chaudhariyash10.github.io/dynamic-form-app.git
    cd my-react-app
    
 2. Install the dependencies
