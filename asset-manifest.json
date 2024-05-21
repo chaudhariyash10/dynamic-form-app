@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.693e6ac8.css",
-    "main.js": "/my-react-app/static/js/main.9fd2161d.js",
-    "index.html": "/my-react-app/index.html",
-    "main.693e6ac8.css.map": "/my-react-app/static/css/main.693e6ac8.css.map",
-    "main.9fd2161d.js.map": "/my-react-app/static/js/main.9fd2161d.js.map"
+    "main.css": "/dynamic-form-app/static/css/main.693e6ac8.css",
+    "main.js": "/dynamic-form-app/static/js/main.9fd2161d.js",
+    "index.html": "/dynamic-form-app/index.html",
+    "main.693e6ac8.css.map": "/dynamic-form-app/static/css/main.693e6ac8.css.map",
+    "main.9fd2161d.js.map": "/dynamic-form-app/static/js/main.9fd2161d.js.map"
   },
   "entrypoints": [
     "static/css/main.693e6ac8.css",
